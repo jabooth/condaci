@@ -13,7 +13,7 @@ from pprint import pprint
 
 VS9_PY_VERS = ['2.7']
 VS10_PY_VERS = ['3.3', '3.4']
-VS14_PY_VERS = ['3.5', '3.6', '3.7', '3.8', '3.9', '3.10']
+VS14_PY_VERS = ['3.5', '3.6', '3.7', '3.8', '3.9', '3.10', '3.11']
 SUPPORTED_PY_VERS = VS9_PY_VERS + VS10_PY_VERS + VS14_PY_VERS
 
 SUPPORTED_ERR_MSG = 'FATAL: Python version not supported, must be one of {}'.format(
